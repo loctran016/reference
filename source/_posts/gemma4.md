@@ -9,7 +9,7 @@ tags:
   - multimodal
   - ai
 categories:
-  - Other
+  - AI
 intro: |
   [Gemma 4](https://deepmind.google/models/gemma/gemma-4/) is Google DeepMind's Apache 2.0 open-weights multimodal LLM family with frontier intelligence across four sizes, from mobile-edge to server-grade deployment.
 plugins:
