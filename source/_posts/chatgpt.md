@@ -8,7 +8,7 @@ tags:
   - Prompts
   - Tips
 categories:
-  - Toolkit
+  - AI
 intro: This cheat sheet lists out prompts and tips from all over the world on how to use ChatGPT effectively
 plugins:
   - copyCode

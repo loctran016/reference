@@ -3,6 +3,7 @@ recent_posts_limits: 4
 
 # The categories and order displayed on the home page
 index_categories:
+  - AI
   - Programming
   - Toolkit
   - Operating System
